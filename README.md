@@ -7,8 +7,8 @@ La actividad consiste en extraer las canciones guardadas en las me gusta del usu
 
 Importante:
 - Probablemente no se tengan instaladas las libreraias adecuadas de googletrans y spotipy, por lo que se debe ejecutar lo sigueinte como administrador:
-    pip install spotipy
-    pip install googletrans==3.1.0a0
+    - pip install spotipy
+    - pip install googletrans==3.1.0a0
 
 - Debe ingresar a spotify developer y en el dashbord crear un app. Debe poner el Client ID y el Client secret en la segunda celda del notebook de python.
 
