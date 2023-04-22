@@ -20,3 +20,4 @@ Importante:
 
 - A la hora de querer utilizar un usuario diferente debe cerrar sesion de spotify en su navegador, ya que de lo contrario se inicairá seisión automatiicamente con la cuenta que tenga sesión iniciada en ese navegador.
 
+- El notebook crea un archivo llamado "canciones.csv", este debe ingresarse al power bi, o de fomra autimatica actualizarlo.
